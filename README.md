@@ -8,10 +8,10 @@ This repository publishes the Swift Package Manager wrapper for the MobileFuse i
 
 ## Current Release
 
-`1.10.0`
+`1.11.0`
 
 ## Package Details
 
-The Swift package delivers the MobileFuse iOS SDK as a binary XCFramework. Version `1.10.0` is downloaded from:
+The Swift package delivers the MobileFuse iOS SDK as a binary XCFramework. Version `1.11.0` is downloaded from:
 
-`https://cdn.mobilefuse.com/sdk/1.10.0.zip`
+`https://cdn.mobilefuse.com/sdk/1.11.0.zip`
