@@ -3,6 +3,9 @@ import PackageDescription
 
 let package = Package(
     name: "MobileFuseSDK",
+    platforms: [
+        .iOS(.v15)
+    ],
     products: [
         .library(name: "MobileFuseSDK", targets: ["MobileFuseSDK"])
     ],
